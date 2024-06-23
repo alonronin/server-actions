@@ -4,38 +4,6 @@
       "name": "John Doe",
       "email": "jhon@email.com",
       "id": "ee99"
-    },
-    {
-      "id": "41fa",
-      "name": "asdasd",
-      "email": "asdsa@asdas.com"
-    },
-    {
-      "id": "b850",
-      "name": "asdasd",
-      "email": "asdasd@asdasd.com"
-    }
-  ],
-  "likes": [
-    {
-      "id": "cff4",
-      "url": "/action-non-form"
-    },
-    {
-      "id": "b58b",
-      "url": "/action-non-form"
-    },
-    {
-      "id": "fbeb",
-      "url": "/simple-server-action"
-    },
-    {
-      "id": "a5e9",
-      "url": "/simple-server-action"
-    },
-    {
-      "id": "e0a2",
-      "url": "/simple-server-action"
     }
   ]
 }
