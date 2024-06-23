@@ -2,7 +2,7 @@
 
 import { Input } from "@/components/input";
 import { Form } from "@/components/form";
-import { Submit } from "@/app/simple-server-action/submit";
+import { Submit } from "@/components/submit";
 import { addUserWithStateAction } from "@/actions";
 import { useFormState } from "react-dom";
 import { useEffect } from "react";

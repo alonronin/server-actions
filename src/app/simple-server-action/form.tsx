@@ -1,8 +1,7 @@
-import { Input } from "@/components/input";
-import { Form } from "@/components/form";
-import { redirect } from "next/navigation";
-import { Submit } from "@/app/simple-server-action/submit";
-import { addUserAction } from "@/actions";
+import {Input} from "@/components/input";
+import {Form} from "@/components/form";
+import {Submit} from "@/components/submit";
+import {addUserAction} from "@/actions";
 
 export function UserForm() {
   return (
