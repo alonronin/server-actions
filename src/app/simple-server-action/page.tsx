@@ -1,7 +1,6 @@
 import { UserForm } from "./form";
 import { Likes } from "@/components/likes";
 import { removeUserAction } from "@/actions";
-import { remove } from "@jridgewell/set-array";
 
 export default async function Page() {
   const users = await fetch(`${process.env.API_URL}/users`, {
